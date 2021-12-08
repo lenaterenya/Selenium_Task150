@@ -1,0 +1,54 @@
+{
+  "uuid": "0-1001_98f96b31487f4d9b82cdb0943670d687-0-1000-test-run1",
+  "historyId": "Task_150_Final.AutoTests.RegisterTheAccount",
+  "fullName": "Task_150_Final.AutoTests.RegisterTheAccount",
+  "labels": [
+    {
+      "name": "host",
+      "value": "DESKTOP-TLK36GF"
+    },
+    {
+      "name": "testClass",
+      "value": "Task_150_Final.AutoTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "RegisterTheAccount"
+    },
+    {
+      "name": "package",
+      "value": "Task_150_Final.AutoTests"
+    },
+    {
+      "name": "suite",
+      "value": "Task_150_Final.AutoTests"
+    },
+    {
+      "name": "subSuite",
+      "value": "Functional Tests"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    }
+  ],
+  "links": [],
+  "name": "RegisterTheAccount",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "New user registration",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1638816536710,
+  "stop": 1638816550749
+}
